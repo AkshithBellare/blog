@@ -1,12 +1,13 @@
 ---
-title: Another post with code samples
-description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
+title: Thinking about the brain. 
+description: Description goes here.Another line of description goes here.And another line goes here. 
 permalink: posts/{{ title | slug }}/index.html
-date: '2020-11-19'
-tags: [demo-content, code]
+date: '2021-12-05'
+tags: [mind]
 ---
 
-Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
+This si what is shown!!!!!!!!!!!!
+alth goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health Hgoth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
 
 ## The `.full-bleed` utility
 
