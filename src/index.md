@@ -3,6 +3,6 @@ layout: home
 title: 'Eleventy Duo'
 ---
 
-# Hello World
+# Hey!
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+This is my new blog! I hope to add stuff I learn and do here!

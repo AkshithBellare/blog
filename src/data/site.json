@@ -1,11 +1,11 @@
 {
   "name": "Akshith Bellare's Blog",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "description": "Akshith Bellare's Blog",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Akshith Bellare",
+    "email": "akshibellare@gmail.com",
+    "twitterHandle": "https://twitter.com/AkshithBellare"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -24,7 +24,7 @@
     {
       "text": "Instagram",
       "url": "https://instagram.com/akshithbellare",
-      "external": true,
+      "external": true
     },
     {
       "text": "GitHub",
