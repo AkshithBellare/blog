@@ -3,6 +3,6 @@ layout: home
 title: 'Akshith Bellares Blog'
 ---
 
-# Hey!
+# Namaste!
 
-This is my new blog! I hope to add stuff I learn and do here!
+Check some stuff i've written below! And if you want to know more about me click on ABOUT.I hope to add more here as I grow.
