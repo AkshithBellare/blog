@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Akshith Bellare's Blog'
 ---
 
 # Hey!
