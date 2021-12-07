@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Akshith Bellare's Blog'
+title: 'Akshith Bellares Blog'
 ---
 
 # Hey!
